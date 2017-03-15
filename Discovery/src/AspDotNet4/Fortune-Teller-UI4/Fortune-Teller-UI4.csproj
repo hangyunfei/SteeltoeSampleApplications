@@ -275,6 +275,7 @@
     <Content Include="appsettings.json" />
     <Content Include="manifest.yml" />
     <Content Include="README.md" />
+    <Content Include="appsettings.development.json" />
     <None Include="Properties\PublishProfiles\FortuneTellerUI4.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
